@@ -110,7 +110,8 @@ python src/stress_test_crisp_tor.py
 
 #### 1. Set up Mullvad VPN
 
-Ensure you have the Mullvad VPN client installed and connected.
+Ensure you have the Mullvad VPN client connected.
+- https://mullvad.net/en/help/socks5-proxy
 
 #### 2. Run the Mullvad Script
 
